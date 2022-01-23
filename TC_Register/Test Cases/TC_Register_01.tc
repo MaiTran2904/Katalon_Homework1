@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Register_01</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a18734e9-f224-4597-bb15-3dc4cfa7f4dc</testCaseGuid>
+   <variable>
+      <defaultValue>'https://hocmai.vn/loginv2/signup.php'</defaultValue>
+      <description></description>
+      <id>fbc49971-0e4f-4018-9669-c095c8dae64c</id>
+      <masked>false</masked>
+      <name>URL</name>
+   </variable>
+   <variable>
+      <defaultValue>'Trần Thiện Mai'</defaultValue>
+      <description></description>
+      <id>768721f4-23df-40ff-9e6a-840fdc548e3a</id>
+      <masked>false</masked>
+      <name>full_name</name>
+   </variable>
+   <variable>
+      <defaultValue>'tranthinhumai2904@gmail.com'</defaultValue>
+      <description></description>
+      <id>991c709e-92bd-4515-9336-0d03f9fd3ee3</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'0366852212'</defaultValue>
+      <description></description>
+      <id>dda6bc87-4432-49f8-8344-98b8f8cb03e6</id>
+      <masked>false</masked>
+      <name>phone_number</name>
+   </variable>
+   <variable>
+      <defaultValue>'Mai@1234'</defaultValue>
+      <description></description>
+      <id>affb6d43-51bf-42cc-90b0-441373b97385</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'Mai@1234'</defaultValue>
+      <description></description>
+      <id>f883e61a-8f6b-49f4-8467-a3fbc774a6d2</id>
+      <masked>false</masked>
+      <name>repassword</name>
+   </variable>
+</TestCaseEntity>

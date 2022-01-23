@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Register_18</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3a50d2dd-6a3c-4913-b821-aa023e9d2521</testCaseGuid>
+   <variable>
+      <defaultValue>'https://hocmai.vn/loginv2/signup.php'</defaultValue>
+      <description></description>
+      <id>0bac50f8-b09a-4bdf-acb6-2762ad15cae3</id>
+      <masked>false</masked>
+      <name>URL</name>
+   </variable>
+   <variable>
+      <defaultValue>'Trần Mai'</defaultValue>
+      <description></description>
+      <id>d2e05308-93f6-444c-8add-dcebd23b47c8</id>
+      <masked>false</masked>
+      <name>full_name</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Register_09</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2cb174f4-0293-4ae8-8959-5671e24c271b</testCaseGuid>
+   <variable>
+      <defaultValue>'https://hocmai.vn/loginv2/signup.php'</defaultValue>
+      <description></description>
+      <id>787d67bf-6d9b-40d5-9d86-cc022c9f8789</id>
+      <masked>false</masked>
+      <name>URL</name>
+   </variable>
+   <variable>
+      <defaultValue>'Ở đây có một Trần Thị Như Mai làm bài tập miệt mài sinh ngày 29/04/2001'</defaultValue>
+      <description></description>
+      <id>8817e404-f266-492a-9f20-75ed89c7fcd4</id>
+      <masked>false</masked>
+      <name>long_full_name</name>
+   </variable>
+   <variable>
+      <defaultValue>'tranthinhumai2001@gmail.com'</defaultValue>
+      <description></description>
+      <id>f53e9ae1-2762-4449-8cb3-94eb1d34cd88</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'0795530626'</defaultValue>
+      <description></description>
+      <id>d290afe3-4a82-42ec-8145-c8658aefad6a</id>
+      <masked>false</masked>
+      <name>phone_number</name>
+   </variable>
+   <variable>
+      <defaultValue>'Mai@dev1234'</defaultValue>
+      <description></description>
+      <id>bceba890-e674-4689-80f7-e53093c91f92</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'Mai@dev1234'</defaultValue>
+      <description></description>
+      <id>c3d99461-f72b-474e-ad05-fa1046b344a3</id>
+      <masked>false</masked>
+      <name>repassword</name>
+   </variable>
+</TestCaseEntity>

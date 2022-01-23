@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Register_16</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8aeae0ad-d80a-410d-8c8f-868d1a1b6b51</testCaseGuid>
+   <variable>
+      <defaultValue>'https://hocmai.vn/loginv2/signup.php'</defaultValue>
+      <description></description>
+      <id>e394e139-8393-4e59-abfd-576c5c525a27</id>
+      <masked>false</masked>
+      <name>URL</name>
+   </variable>
+   <variable>
+      <defaultValue>'tranthinhumai2001@gmail.com'</defaultValue>
+      <description></description>
+      <id>077d0b5e-4865-490d-88c1-0a7483539a83</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'0795530626'</defaultValue>
+      <description></description>
+      <id>c2d9c59d-f24c-4eb0-87a6-3e7b03d35241</id>
+      <masked>false</masked>
+      <name>phone_number</name>
+   </variable>
+</TestCaseEntity>
